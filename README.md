@@ -39,3 +39,18 @@
 ⚡ Passionate about building high-performance, user-centric apps  
 🌱 Always learning new tech to stay ahead in the game  
 🚀 Turning ideas into reality, one commit at a time  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankush-sharma&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankush-sharma&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankush-sharma&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
