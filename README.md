@@ -40,5 +40,5 @@
 🌱 Always learning new tech to stay ahead in the game  
 🚀 Turning ideas into reality, one commit at a time  
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankusharma001&show_icons=true&locale=en" alt="ankusharma001" /></p>
+<p align="flex-end">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankusharma001&show_icons=true&locale=en" alt="ankusharma001" /></p>
 
