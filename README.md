@@ -39,3 +39,6 @@
 ⚡ Passionate about building high-performance, user-centric apps  
 🌱 Always learning new tech to stay ahead in the game  
 🚀 Turning ideas into reality, one commit at a time  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankusharma001&show_icons=true&locale=en" alt="ankusharma001" /></p>
+
